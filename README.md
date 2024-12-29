@@ -17,9 +17,11 @@ A Python bot that checks your internet speed using [Speedtest.net](https://www.s
 git clone https://github.com/yourusername/internet-speed-bot.git
 cd internet-speed-bot
 
+
 ### 2. Install dependencies
 ```bash
 pip install selenium python-dotenv
+
 
 ### 3. Download WebDriver
 - Download the [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads) that matches your Chrome version.
