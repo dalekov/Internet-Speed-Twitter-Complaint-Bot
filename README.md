@@ -1,6 +1,6 @@
 # 🚀 Internet Speed Complaint Bot 📡
 
-A Python bot that checks your internet speed using [Speedtest.net](https://www.speedtest.net) and tweets a complaint to your internet provider if the speed is lower than promised. Built with ❤️ using Selenium.
+A Python bot that checks your internet speed using [Speedtest.net](https://www.speedtest.net) and tweets a complaint to your internet provider if the speed is lower than promised. Built using Selenium.
 
 ---
 
